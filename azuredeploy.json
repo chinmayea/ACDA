@@ -41,8 +41,7 @@
         "th-TH | Thai (Thailand)",
         "tr-TR | Turkish (Turkey)",
         "zh-CN | Chinese (Mandarin, simplified)",
-        "zh-HK | Chinese (Cantonese, Traditional)",
-        "zh-TW | Chinese (Taiwanese Mandarin)"
+        "zh-HK | Chinese (Cantonese, Traditional)"        
       ]
     },
     "CustomModelId": {
