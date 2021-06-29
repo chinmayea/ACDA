@@ -51,3 +51,9 @@
         "parameters": {
           "enableNoPublicIp": {
             "value": "[parameters('disablePublicIp')]"
+			}
+			}
+			}
+			}
+			]
+			}
